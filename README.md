@@ -17,7 +17,7 @@
     - [request-apis](https://github.com/ganeshkbhat/apis-request) [in dev] make requests - get, post, put, patch, delete, options http/s requests
     - [get-root](https://github.com/ganeshkbhat/get-root) [prod] get the root of git, svn, npm repos/ packages
     - [get-imports](https://github.com/ganeshkbhat/get-imports) [prod] get all the require, import packages in a js, cjs, and mjs file
-    - [get-isesm](https://github.com/ganeshkbhat/get-isesm) [prod] get if the file is an js, cjs, or a mjs file
+    - [get-isesm](https://github.com/ganeshkbhat/get-isesm) [prod] check if the file is an js, cjs, or a mjs file
     - [mutables](https://github.com/ganeshkbhat/store) [in dev] immutable stores
     - [traverse-fs](https://github.com/traverse-fs/glob-traverse-fs) [prod] traverse, search, run opertations on the file system and/ or run your callbacks on the results
 
