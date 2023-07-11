@@ -21,6 +21,13 @@
     - [mutables](https://github.com/ganeshkbhat/store) [in dev] immutable stores
     - [traverse-fs](https://github.com/traverse-fs/glob-traverse-fs) [prod] traverse, search, run opertations on the file system and/ or run your callbacks on the results
 
+- 💬 I am skilled in ...
+    - javascript, nodejs, typescript
+    - python
+    - project and team management
+    - internal auditor - iso 9001, iso 27001, bs7799
+    - six sigma green belt candidate
+
 - 💬 I’m blogging at ...
     - [medium](https://medium.com/@ganeshsurfs)
  
