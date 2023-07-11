@@ -22,8 +22,8 @@
     - [traverse-fs](https://github.com/traverse-fs/glob-traverse-fs) [prod] traverse, search, run opertations on the file system and/ or run your callbacks on the results
 
 - 💬 I am skilled in or I am a ...
-    - javascript, nodejs, typescript
-    - python
+    - [javascript, nodejs](https://nodejs.org/), [typescript](https://www.typescriptlang.org/)
+    - [python](https://www.python.org/)
     - project and team management
     - internal auditor - iso 9001, iso 27001, bs7799
     - six sigma green belt candidate
