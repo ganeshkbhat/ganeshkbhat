@@ -21,7 +21,7 @@
     - [mutables](https://github.com/ganeshkbhat/store) [in dev] immutable stores
     - [traverse-fs](https://github.com/traverse-fs/glob-traverse-fs) [prod] traverse, search, run opertations on the file system and/ or run your callbacks on the results
 
-- 💬 I am skilled in ...
+- 💬 I am skilled in or I am a ...
     - javascript, nodejs, typescript
     - python
     - project and team management
