@@ -12,7 +12,7 @@
     - [ndarrays](https://github.com/ganeshkbhat/numericalarrays) [in dev] use numpy, pandas, and scipy in js
     - [pickler](https://github.com/ganeshkbhat/pickler) [prod] js and default python pickle file imlementation 
     - [jsparsers](https://github.com/ganeshkbhat/convertors) [in dev] parse ini, csv, xml, yml, css, scss, less from and to json
-    - [jsextenders](https://github.com/ganeshkbhat/jsextenders) [prod] extend js objects with commonly used functions for arras, strings, objects
+    - [jsextenders](https://github.com/ganeshkbhat/jsextenders) [prod] extend js objects with commonly used functions for arrays, strings, and objects
     - [queues.js](https://github.com/ganeshkbhat/queues.js) [prod] different types of variant implementations for queues
     - [request-apis](https://github.com/ganeshkbhat/apis-request) [in dev] make requests - get, post, put, patch, delete, options http/s requests
     - [get-root](https://github.com/ganeshkbhat/get-root) [prod] get the root of git, svn, npm repos/ packages
