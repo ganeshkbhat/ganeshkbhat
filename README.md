@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on ...
     - [desktop-cgi](https://github.com/desktop-cgi/desktop-cgi) [in dev] create hybrid apps using different ways (serving, running script files, proxies) to use mutliple interpreted language web apps or proxies
-    - [cgi-js](https://github.com/cgi-js/cgi-js) [prod] run cgi/ interpreted languages script file, and manage different processes/ executables
-    - [require-urls](https://github.com/ganeshkbhat/require-urls) [prod] require remote urls from git, gitlab, bitbucket (todo: svn, remote ftp/store link)
+    - [cgi-js](https://github.com/cgi-js/cgi-js) [prod] run cgi/ interpreted language's script files, and/ or manage different processes/ executables
+    - [require-urls](https://github.com/ganeshkbhat/require-urls) [prod] require remote urls from git (todo: gitlab, bitbucket, svn, remote ftp/store link)
     - [hasher-apis](https://github.com/ganeshkbhat/apis-hasher) [prod] create hashes or encrypt (one-wy, two-way) of data, files, and/ or create keys using the crypto module of nodejs
     - [loadbalancerjs](https://github.com/ganeshkbhat/loadbalancer) [in dev] loadbalancer using different routing algorithms
     - [concurrency.js](https://github.com/ganeshkbhat/concurrency) [in dev] provide concurrency using threads, processes, and 
