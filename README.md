@@ -22,6 +22,7 @@
     - [traverse-fs](https://github.com/traverse-fs/glob-traverse-fs) | [npm](https://www.npmjs.com/package/traverse-fs) [prod] traverse, search, run opertations on the file system and/ or run your callbacks on the results
     - [issyntax](https://github.com/ganeshkbhat/issyntax) | [npm](https://www.npmjs.com/package/issyntax) [prod] check if a item is a syntax in the javascript environment using issyntax using the isKeyword function
     - [safecookie](https://github.com/ganeshkbhat/safe-cookies) | [npm](https://www.npmjs.com/package/safecookie) Wrap most of the cookie libraries with a safer encrypt - decrypt function - should work with most libraries
+    - [which-platform](https://github.com/ganeshkbhat/isbrowser) [npm](https://www.npmjs.com/package/which-platform) check if an environment (which-platform) is nodejs or browser environment
 
 - 💬 I am skilled in or I am a ...
     - [javascript, nodejs](https://nodejs.org/), [typescript](https://www.typescriptlang.org/)
