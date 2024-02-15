@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ...
     - [desktop-cgi](https://github.com/desktop-cgi/desktop-cgi) [in dev] create hybrid apps using different ways (serving, running script files, proxies) to use mutliple interpreted language web apps or proxies
-    - [taskcontrols] || [py-taskcontrols](https://github.com/taskcontrols/py-taskcontrol) | [pypi](https://pypi.org/project/taskcontrol/) [in dev] create named isolated/shared workflow task controls and run the tasks with respective before and after middlewares in ordered manner
+    - [taskcontrols] || [py-taskcontrols](https://github.com/taskcontrols/py-taskcontrol) | [pypi](https://pypi.org/project/taskcontrol/) [in dev] workflow automation library with support for concurrent or event based processes or activities in local/network automation tasks, including CI/CD activities
     - [cgi-js](https://github.com/cgi-js/cgi-js) | [npm](https://www.npmjs.com/package/cgijs) [prod] run cgi/ interpreted language's script files, and/ or manage different processes/ executables. running php executable can be found [here](https://github.com/ganeshkbhat/node-php-cgi) | [npm](https://www.npmjs.com/package/phpcgijs)
     - [require-urls](https://github.com/ganeshkbhat/require-urls) | [npm](https://www.npmjs.com/package/require-urls) [prod] require remote urls from git (todo: gitlab, bitbucket, svn, remote ftp/store link)
     - [hasher-apis](https://github.com/ganeshkbhat/apis-hasher) | [npm](https://www.npmjs.com/package/hasher-apis) [prod] create hashes or encrypt (one-way, two-way) of data, files, and/ or create keys using the crypto module of nodejs
