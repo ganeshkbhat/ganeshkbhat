@@ -23,6 +23,9 @@
     - [issyntax](https://github.com/ganeshkbhat/issyntax) | [npm](https://www.npmjs.com/package/issyntax) [prod] check if a item is a syntax in the javascript environment using issyntax using the isKeyword function
     - [safecookie](https://github.com/ganeshkbhat/safe-cookies) | [npm](https://www.npmjs.com/package/safecookie) [prod] Wrap most of the cookie libraries with a safer encrypt - decrypt function - should work with most libraries
     - [which-platform](https://github.com/ganeshkbhat/isbrowser) | [npm](https://www.npmjs.com/package/which-platform) [prod] check if an environment (which-platform) is nodejs or browser environment
+    - [fs-handlers](https://github.com/ganeshkbhat/filehandler) | [npm](https://www.npmjs.com/package/fs-handlers) [prod] a simple interface and handler for streaming file handler using fs-handlers filehandler package
+
+
 
 - 💬 I am skilled in or I am a ...
     - [javascript, nodejs](https://nodejs.org/), [typescript](https://www.typescriptlang.org/)
