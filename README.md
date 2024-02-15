@@ -12,7 +12,7 @@
     - [ndarrays](https://github.com/ganeshkbhat/numericalarrays) | [in dev] use numpy, pandas, and scipy in js
     - [pickler](https://github.com/ganeshkbhat/pickler) | [npm](https://www.npmjs.com/package/mod-pickle) [prod] js and default python pickle file imlementation 
     - [jsparsers](https://github.com/ganeshkbhat/convertors) | [npm]() [in dev] parse ini, csv, xml, yml, css, scss, less from and to json
-    - [jsextenders](https://github.com/ganeshkbhat/jsextenders) | [npm](https://www.npmjs.com/package/extenders) [prod] extend js objects with commonly used functions for arrays, strings, and objects
+    - [extenders](https://github.com/ganeshkbhat/jsextenders) | [npm](https://www.npmjs.com/package/extenders) [prod] extend js objects with commonly used functions for arrays, strings, and objects
     - [queues.js](https://github.com/ganeshkbhat/queues.js) | [npm](https://www.npmjs.com/package/queues.js) [prod] different types of variant implementations for queues
     - [request-apis](https://github.com/ganeshkbhat/apis-request) | [npm](https://www.npmjs.com/package/request-apis) [in dev] make requests - get, post, put, patch, delete, options http/s requests
     - [get-root](https://github.com/ganeshkbhat/get-root) | [npm]() [prod] get the root of git, svn, npm repos/ packages
