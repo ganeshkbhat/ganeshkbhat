@@ -48,7 +48,13 @@
     - [fs-handlers](https://github.com/ganeshkbhat/filehandler) | [npm](https://www.npmjs.com/package/fs-handlers) [prod] a simple interface and handler for streaming file handler using fs-handlers filehandler package
     - [issyntax](https://github.com/ganeshkbhat/issyntax) | [npm](https://www.npmjs.com/package/issyntax) [prod] check if a item is a syntax in the javascript environment using issyntax using the isKeyword function
     - [safecookie](https://github.com/ganeshkbhat/safe-cookies) | [npm](https://www.npmjs.com/package/safecookie) [prod] Wrap most of the cookie libraries with a safer encrypt - decrypt function - should work with most libraries
-    - [which-platform](https://github.com/ganeshkbhat/isbrowser) | [npm](https://www.npmjs.com/package/which-platform) [prod] check if an environment (which-platform) is nodejs or browser environment
+    - [which-platform](https://github.com/ganeshkbhat/which-platform) | [npm](https://www.npmjs.com/package/which-platform) [prod] check if an environment (which-platform) is nodejs or browser environment
+    - [which-istypedarray](https://github.com/ganeshkbhat/which-istypedarray) | [npm](https://www.npmjs.com/package/which-istypedarray) [prod] check if an array or is a typed array or a buffer or simple array 
+    - [which-fileextension](https://github.com/ganeshkbhat/which-fileextension) | [npm](https://www.npmjs.com/package/which-fileextension) [prod] check/ detect file extensions
+    - [which-type](https://github.com/ganeshkbhat/which-type) | [npm](https://www.npmjs.com/package/which-type) [dev] check/ determine which type of js is the object using which-type
+    - [which-pkgmgr](https://github.com/ganeshkbhat/which-pkgmgr) | [npm]() [dev] detect default package manager in nodejs using detect-package-manager
+
+ 
 
 
 
