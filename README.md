@@ -2,8 +2,7 @@
 
 
 - 💬 I am skilled in or I am a ...
-    - [javascript, nodejs](https://nodejs.org/), [typescript](https://www.typescriptlang.org/)
-    - [python](https://www.python.org/)
+    - [javascript, nodejs](https://nodejs.org/), [typescript](https://www.typescriptlang.org/), [python](https://www.python.org/)
     - project and team management
     - internal auditor - iso 9001, iso 27001, bs7799
     - six sigma green belt candidate
