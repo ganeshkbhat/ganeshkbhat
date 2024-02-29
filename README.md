@@ -8,11 +8,17 @@
     - internal auditor - iso 9001, iso 27001, bs7799
     - six sigma green belt candidate
 
-- 💬 I’m blogging at ...
+- 💬 I’m blogging at [medium](https://medium.com/@ganeshsurfs)
+
+ <!--
     - [medium](https://medium.com/@ganeshsurfs)
+ -->
  
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning [golang](https://go.dev/)
+
+<!--
     - [golang](https://go.dev/)
+-->
 
 - 👯 I’m looking to collaborate on ...
     - opensource projects
