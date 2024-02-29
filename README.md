@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+
+- 💬 I am skilled in or I am a ...
+    - [javascript, nodejs](https://nodejs.org/), [typescript](https://www.typescriptlang.org/)
+    - [python](https://www.python.org/)
+    - project and team management
+    - internal auditor - iso 9001, iso 27001, bs7799
+    - six sigma green belt candidate
+
+- 💬 I’m blogging at ...
+    - [medium](https://medium.com/@ganeshsurfs)
+ 
+- 🌱 I’m currently learning ...
+    - [golang](https://go.dev/)
+
+- 👯 I’m looking to collaborate on ...
+    - opensource projects
+    - commercial projects
+
 - 🔭 I’m currently working on ...
     - [desktop-cgi](https://github.com/desktop-cgi/desktop-cgi) [in dev] create hybrid apps using different ways (serving, running script files, proxies) to use mutliple interpreted language web apps or proxies
     - [taskcontrols] || [py-taskcontrols](https://github.com/taskcontrols/py-taskcontrol) | [pypi](https://pypi.org/project/taskcontrol/) [in dev] workflow automation library with support for concurrent or event based processes or activities in local/network automation tasks, including CI/CD activities
@@ -29,23 +47,6 @@
 
 
 
-
-- 💬 I am skilled in or I am a ...
-    - [javascript, nodejs](https://nodejs.org/), [typescript](https://www.typescriptlang.org/)
-    - [python](https://www.python.org/)
-    - project and team management
-    - internal auditor - iso 9001, iso 27001, bs7799
-    - six sigma green belt candidate
-
-- 💬 I’m blogging at ...
-    - [medium](https://medium.com/@ganeshsurfs)
- 
-- 🌱 I’m currently learning ...
-    - [golang](https://go.dev/)
-
-- 👯 I’m looking to collaborate on ...
-    - opensource projects
-    - commercial projects
 
  <!--
 - 📫 How to reach me: ...
