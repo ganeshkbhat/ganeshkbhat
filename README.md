@@ -53,8 +53,7 @@
     - [which-fileextension](https://github.com/ganeshkbhat/which-fileextension) | [npm](https://www.npmjs.com/package/which-fileextension) [prod] check/ detect file extensions
     - [which-type](https://github.com/ganeshkbhat/which-type) | [npm](https://www.npmjs.com/package/which-type) [dev] check/ determine which type of js is the object using which-type
     - [which-pkgmgr](https://github.com/ganeshkbhat/which-pkgmgr) | [npm]() [dev] detect default package manager in nodejs using detect-package-manager
-
- 
+    - [safefreeze](https://github.com/ganeshkbhat/freezeobject) [npm](https://www.npmjs.com/package/safefreeze) make a safe freeze object freezeobject - better usage [modified node internals] than as defined and used in node internals
 
 
 
