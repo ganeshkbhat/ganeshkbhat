@@ -31,7 +31,7 @@
     - [hasher-apis](https://github.com/ganeshkbhat/apis-hasher) | [npm](https://www.npmjs.com/package/hasher-apis) [prod] create hashes or encrypt (one-way, two-way) of data, files, and/ or create keys using the crypto module of nodejs
     - [loadbalancerjs](https://github.com/ganeshkbhat/loadbalancer) | [in dev] loadbalancer using different routing algorithms
     - [concurrency.js](https://github.com/ganeshkbhat/concurrency) | [npm](https://www.npmjs.com/package/concurrency.js) [in dev] provide concurrency using threads, processes, and 
-    - [fastprimenumbers](https://github.com/ganeshkbhat/fastprimenumbers) | [npm](https://www.npmjs.com/package/fast-prime) [npm browser](https://www.npmjs.com/package/fast-prime-client) [prod] probably the fastest implementation since march 2021 of prime numbers creation and checks (indigenously made using modified vedic mathematics technique not available)
+    - [fastprimenumbers](https://github.com/ganeshkbhat/fastprimenumbers) | [npm](https://www.npmjs.com/package/fast-prime) | [npm browser](https://www.npmjs.com/package/fast-prime-client) [prod] probably the fastest implementation since march 2021 of prime numbers creation and checks (indigenously made using modified vedic mathematics technique not available)
     - [taskcontrols](https://github.com/taskcontrols/py-taskcontrol) | [prod, in dev] workflow, task automation library with concurrency, event management, data persistence, web hooks, security support
     - [ndarrays](https://github.com/ganeshkbhat/numericalarrays) | [in dev] use numpy, pandas, and scipy in js
     - [pickler](https://github.com/ganeshkbhat/pickler) | [npm](https://www.npmjs.com/package/mod-pickle) [prod] js and default python pickle file imlementation 
@@ -53,7 +53,7 @@
     - [which-fileextension](https://github.com/ganeshkbhat/which-fileextension) | [npm](https://www.npmjs.com/package/which-fileextension) [prod] check/ detect file extensions
     - [which-type](https://github.com/ganeshkbhat/which-type) | [npm](https://www.npmjs.com/package/which-type) [dev] check/ determine which type of js is the object using which-type
     - [which-pkgmgr](https://github.com/ganeshkbhat/which-pkgmgr) | [npm]() [dev] detect default package manager in nodejs using detect-package-manager
-    - [safefreeze](https://github.com/ganeshkbhat/freezeobject) | [npm](https://www.npmjs.com/package/safefreeze) make a safe freeze object freezeobject - better usage [modified node internals] than as defined and used in node internals
+    - [safefreeze](https://github.com/ganeshkbhat/freezeobject) | [npm](https://www.npmjs.com/package/safefreeze) [prod] make a safe freeze object freezeobject - better usage [modified node internals] than as defined and used in node internals
 
 
 
