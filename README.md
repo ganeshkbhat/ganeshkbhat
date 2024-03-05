@@ -52,7 +52,7 @@
     - [which-istypedarray](https://github.com/ganeshkbhat/which-istypedarray) | [npm](https://www.npmjs.com/package/which-istypedarray) [prod] check if an array or is a typed array or a buffer or simple array 
     - [which-fileextension](https://github.com/ganeshkbhat/which-fileextension) | [npm](https://www.npmjs.com/package/which-fileextension) [prod] check/ detect file extensions
     - [which-type-object](https://github.com/ganeshkbhat/which-type-object) | [npm](https://www.npmjs.com/package/which-type-object) [prod] Use which-type-object to detect which type or javascript class instance or object tag an object of javascript is
-    - [which-type](https://github.com/ganeshkbhat/which-type-js) | [npm](https://www.npmjs.com/package/which-type-js) [prod] check/ determine which type of js is the object using which-type-js
+    - [which-type-js](https://github.com/ganeshkbhat/which-type-js) | [npm](https://www.npmjs.com/package/which-type-js) [prod] check/ determine which type of js is the object using which-type-js
     - [which-pkgmgr](https://github.com/ganeshkbhat/which-pkgmgr) | [npm]() [dev] detect default package manager in nodejs using detect-package-manager
     - [safefreeze](https://github.com/ganeshkbhat/freezeobject) | [npm](https://www.npmjs.com/package/safefreeze) [prod] make a safe freeze object freezeobject - better usage [modified node internals] than as defined and used in node internals
     - [editablebrowser](https://github.com/ganeshkbhat/inbrowseredit) | [npm](https://www.npmjs.com/package/editablebrowser) [prod] make document editable in browser using inbrowseredit
