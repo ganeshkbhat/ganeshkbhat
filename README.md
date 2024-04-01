@@ -56,6 +56,7 @@
     - [which-pkgmgr](https://github.com/ganeshkbhat/which-pkgmgr) | [npm]() [dev] detect default package manager in nodejs using detect-package-manager
     - [safefreeze](https://github.com/ganeshkbhat/freezeobject) | [npm](https://www.npmjs.com/package/safefreeze) [prod] make a safe freeze object freezeobject - better usage [modified node internals] than as defined and used in node internals
     - [editablebrowser](https://github.com/ganeshkbhat/inbrowseredit) | [npm](https://www.npmjs.com/package/editablebrowser) [prod] make document editable in browser using inbrowseredit
+    - [which-sort](https://github.com/ganeshkbhat/which-sort) | [npm](https://www.npmjs.com/package/which-sort) [prod] which-sort provides different techniques present theoritically to do a sort. a package to dwell into different sorting experiments of techniques
 
 
 
