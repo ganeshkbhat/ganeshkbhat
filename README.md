@@ -35,7 +35,7 @@
     - [taskcontrols](https://github.com/taskcontrols/py-taskcontrol) | [prod, in dev] workflow, task automation library with concurrency, event management, data persistence, web hooks, security support
     - [ndarrays](https://github.com/ganeshkbhat/numericalarrays) | [in dev] use numpy, pandas, and scipy in js
     - [pickler](https://github.com/ganeshkbhat/pickler) | [npm](https://www.npmjs.com/package/mod-pickle) [prod] js and default python pickle file imlementation 
-    - [jsparsers](https://github.com/ganeshkbhat/convertors) | [npm]() [in dev] parse ini, csv, xml, yml, css, scss, less from and to json
+    - [jsparsers](https://github.com/ganeshkbhat/convertors) | [npm]() [in dev] parse [ini](https://github.com/ganeshkbhat/json2ini), csv, [xml](https://github.com/ganeshkbhat/json2xml), [yml](https://github.com/ganeshkbhat/json2yaml), css, scss, less from and to json
     - [extenders](https://github.com/ganeshkbhat/jsextenders) | [npm](https://www.npmjs.com/package/extenders) [prod] extend js objects with commonly used functions for arrays, strings, and objects
     - [queues.js](https://github.com/ganeshkbhat/queues.js) | [npm](https://www.npmjs.com/package/queues.js) [prod] different types of variant implementations for queues
     - [request-apis](https://github.com/ganeshkbhat/apis-request) | [npm](https://www.npmjs.com/package/request-apis) [in dev] make requests - get, post, put, patch, delete, options http/s requests
