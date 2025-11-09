@@ -43,7 +43,7 @@
     - [get-imports](https://github.com/ganeshkbhat/get-imports) | [npm](https://www.npmjs.com/package/get-imported) [prod] get all the require, import packages in a js, cjs, and mjs file
     - [check-esm](https://github.com/ganeshkbhat/get-isesm) | [npm](https://www.npmjs.com/package/check-esm) [prod] check if the file is an `js`, `cjs`, or a `mjs` file
     - [mutables](https://github.com/ganeshkbhat/store) | [npm](https://www.npmjs.com/package/mutables) [in dev] immutable stores
-    - [traverse-fs](https://github.com/traverse-fs/glob-traverse-fs) | [npm](https://www.npmjs.com/package/traverse-fs) [prod] traverse, search, run opertations on the file system and/ or run your callbacks on the results
+    - [traverse-fs](https://github.com/traverse-fs/glob-traverse-fs) | [npm](https://www.npmjs.com/package/traverse-fs) [prod] traverse, search, run operations on the file system and/ or run your callbacks on the results
     - [fssys](https://github.com/traverse-fs/fssys) | [npm](https://www.npmjs.com/package/fssys) [prod] module to read write folder/files, fs util functions, traverse files and folder using code, or cli, or use glob patterns
     - [fs-handlers](https://github.com/ganeshkbhat/filehandler) | [npm](https://www.npmjs.com/package/fs-handlers) [prod] a simple interface and handler for streaming file handler using fs-handlers filehandler package
     - [issyntax](https://github.com/ganeshkbhat/issyntax) | [npm](https://www.npmjs.com/package/issyntax) [prod] check if a item is a syntax in the javascript environment using issyntax using the isKeyword function
