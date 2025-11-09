@@ -42,6 +42,8 @@
     - [get-root](https://github.com/ganeshkbhat/get-root) | [npm]() [prod] get the root of `git`, `svn`, `npm` repos/ packages
     - [get-imports](https://github.com/ganeshkbhat/get-imports) | [npm](https://www.npmjs.com/package/get-imported) [prod] get all the require, import packages in a js, cjs, and mjs file
     - [check-esm](https://github.com/ganeshkbhat/get-isesm) | [npm](https://www.npmjs.com/package/check-esm) [prod] check if the file is an `js`, `cjs`, or a `mjs` file
+    - [isdomain](https://github.com/ganeshkbhat/isdomain)
+    - [isurl](https://github.com/ganeshkbhat/isurl)
     - [mutables](https://github.com/ganeshkbhat/store) | [npm](https://www.npmjs.com/package/mutables) [in dev] immutable stores
     - [traverse-fs](https://github.com/traverse-fs/glob-traverse-fs) | [npm](https://www.npmjs.com/package/traverse-fs) [prod] traverse, search, run operations on the file system and/ or run your callbacks on the results
     - [fssys](https://github.com/traverse-fs/fssys) | [npm](https://www.npmjs.com/package/fssys) [prod] module to read write folder/files, fs util functions, traverse files and folder using code, or cli, or use glob patterns
