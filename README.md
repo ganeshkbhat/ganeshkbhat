@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 💬 I am skilled in or I am a ...
+- 💬 I am skilled in or I am a candidate for ...
     - [javascript, nodejs](https://nodejs.org/), [typescript](https://www.typescriptlang.org/), [python](https://www.python.org/)
     - project and team management
     - internal auditor - iso 9001, iso 27001, bs7799
