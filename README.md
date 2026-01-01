@@ -25,13 +25,13 @@
 
 - 🔭 I’m currently working on ...
     - [desktop-cgi](https://github.com/desktop-cgi/desktop-cgi) [in dev] create hybrid apps using different ways (serving, running script files, proxies) to use mutliple interpreted language web apps or proxies
-    - [taskcontrols] || [py-taskcontrols](https://github.com/taskcontrols/py-taskcontrol) | [pypi](https://pypi.org/project/taskcontrol/) [in dev] workflow automation library with support for concurrent or event based processes or activities in local/network automation tasks, including CI/CD activities
     - [cgi-js](https://github.com/cgi-js/cgi-js) | [npm](https://www.npmjs.com/package/cgijs) [prod] run cgi/ interpreted language's script files, and/ or manage different processes/ executables. running php executable can be found [here](https://github.com/ganeshkbhat/node-php-cgi) | [npm](https://www.npmjs.com/package/phpcgijs)
+    - [taskcontrols] || [py-taskcontrols](https://github.com/taskcontrols/py-taskcontrol) | [pypi](https://pypi.org/project/taskcontrol/) [in dev] workflow automation library with support for concurrent or event based processes or activities in local/network automation tasks, including CI/CD activities
     - [loadbalancerjs](https://github.com/ganeshkbhat/loadbalancer) | [in dev] loadbalancer using different routing algorithms
     - [concurrency.js](https://github.com/ganeshkbhat/concurrency) | [npm](https://www.npmjs.com/package/concurrency.js) [in dev] provide concurrency using threads, processes, and 
-    - [fastprimenumbers](https://github.com/ganeshkbhat/fastprimenumbers) | [npm](https://www.npmjs.com/package/fast-prime) | [npm browser](https://www.npmjs.com/package/fast-prime-client) [prod] probably the fastest implementation since march 2021 of prime numbers creation and checks (indigenously made using modified vedic mathematics technique not available)
     - [taskcontrols](https://github.com/taskcontrols/py-taskcontrol) | [prod, in dev] workflow, task automation library with concurrency, event management, data persistence, web hooks, security support
     - [require-urls](https://github.com/ganeshkbhat/require-urls) | [npm](https://www.npmjs.com/package/require-urls) [prod] require remote urls from git (todo: gitlab, bitbucket, svn, remote ftp/store link)
+    - [fastprimenumbers](https://github.com/ganeshkbhat/fastprimenumbers) | [npm](https://www.npmjs.com/package/fast-prime) | [npm browser](https://www.npmjs.com/package/fast-prime-client) [prod] probably the fastest implementation since march 2021 of prime numbers creation and checks (indigenously made using modified vedic mathematics technique not available)
     - [hasher-apis](https://github.com/ganeshkbhat/apis-hasher) | [npm](https://www.npmjs.com/package/hasher-apis) [prod] create hashes or encrypt (one-way, two-way) of data, files, and/ or create keys using the crypto module of nodejs
     - [pickler](https://github.com/ganeshkbhat/pickler) | [npm](https://www.npmjs.com/package/mod-pickle) [prod] js and default python pickle file imlementation 
     - [ndarrays](https://github.com/ganeshkbhat/numericalarrays) | [in dev] use numpy, pandas, and scipy in js
