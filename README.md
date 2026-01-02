@@ -7,7 +7,7 @@
     - internal auditor - iso 9001, iso 27001, bs7799
     - six sigma green belt candidate
 
-- 💬 I’m blogging at [medium](https://medium.com/@ganeshsurfs)
+- 💬 I’m blogging at [medium](https://medium.com/@ganeshkbhat)
 
  <!--
     - [medium](https://medium.com/@ganeshsurfs)
