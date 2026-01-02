@@ -33,6 +33,7 @@
     - [require-urls](https://github.com/ganeshkbhat/require-urls) | [npm](https://www.npmjs.com/package/require-urls) [prod] require remote urls from git (todo: gitlab, bitbucket, svn, remote ftp/store link)
     - [fastprimenumbers](https://github.com/ganeshkbhat/fastprimenumbers) | [npm](https://www.npmjs.com/package/fast-prime) | [npm browser](https://www.npmjs.com/package/fast-prime-client) [prod] probably the fastest implementation since march 2021 of prime numbers creation and checks (indigenously made using modified vedic mathematics technique not available)
     - [hasher-apis](https://github.com/ganeshkbhat/apis-hasher) | [npm](https://www.npmjs.com/package/hasher-apis) [prod] create hashes or encrypt (one-way, two-way) of data, files, and/ or create keys using the crypto module of nodejs
+    - [sleep](https://github.com/ganeshkbhat/sleep) [npm](https://www.npmjs.com/package/timed-sleep) sleep funtion like python 
     - [pickler](https://github.com/ganeshkbhat/pickler) | [npm](https://www.npmjs.com/package/mod-pickle) [prod] js and default python pickle file imlementation 
     - [ndarrays](https://github.com/ganeshkbhat/numericalarrays) | [in dev] use numpy, pandas, and scipy in js
     - [jsparsers](https://github.com/ganeshkbhat/convertors) | [npm]() [in dev] parse [`ini`](https://github.com/ganeshkbhat/json2ini), [`xml`](https://github.com/ganeshkbhat/json2xml), [`yaml`](https://github.com/ganeshkbhat/json2yaml), [ini](https://github.com/ganeshkbhat/json2ini), [csv](https://github.com/ganeshkbhat/json2csv), css, scss, less from and to json
